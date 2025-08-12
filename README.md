@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name Aufa Alfirdausi</h2>
+<h2 align="left">Hi! My name Aufa Alfirdausi</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aufalfirdausi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -29,8 +29,8 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRjajhvaWdhdDk2b2puNHY2bGk1Y2pqMXJ2MTZsYmEwbXprcTNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+<div align="right">
+  <img height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRjajhvaWdhdDk2b2puNHY2bGk1Y2pqMXJ2MTZsYmEwbXprcTNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 </div>
 
 ###
