@@ -1,5 +1,19 @@
 <h2 align="left">Hi! My name Aufa Alfirdausi</h2>
 
+<h2>WHY I DON'T HAVE PORTOFOLIO</h2>
+  <h3>“I’ve been too busy with client work.”
+
+Oh, so busy you can't spend 2 hours showcasing how “busy” you are? Nice flex, but where’s the proof? 🕵️‍♂️
+
+“I’m waiting to finish my dream project.”
+
+Spoiler: It’s never getting done. Just deploy that half-baked masterpiece already. 🍰
+
+“I don’t need one, my skills speak for themselves.”
+
+No portfolio? Skills must be whispering, huh? 🤫</h3>
+
+
 ###
 
 <div align="left">
@@ -17,6 +31,8 @@
 </div>
 
 ###
+
+
 
 <br clear="both">
 
